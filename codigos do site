@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <img src="logo-soft.png" alt="logo do site">
+        <div>
+            <nav>
+                <ul>
+                    <li><a href="Sobre">SOBRE</a></li>
+                    <li><a href="Experiencia">EXPERIENCIA</a></li>
+                    <li><a href="Desenvolvimento">DESENVOLVIMENTO</a></li>
+                    <li><a href="Projeto">PROJETOS</a></li>
+                    <li><a href="Atividades Extracurriculares">ATIVIDADES EXTRACURRICULARES</a></li>
+                    <li><a href="Contato">CONTATO</a></li>
+                </ul>
+            </nav>
+            <nav>
+                <ul>
+                    <li><a href=""><img src="./image.png"></a></li>
+                    <li><a href=""><img src="./twitch-logo.png"></a></li>
+                    <li><a href=""><img src="./facebook-logo.png"></a></a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    <main>
+        <div>
+            <h1>Coisas que eu projetei</h1>
+            <h2>Atenção plena</h2>
+            <p>Um aplicativo móvel de prova de conceito que ajuda pessoas com transtornos alimentares a reconstruir seu relacionamento com a comida por meio de diário alimentar, monitoramento de humor e alimentação consciente.</p>
+            <p>Competição UNSW Digital Makers 2023 - Prêmio do Júri por Impacto Social</p>
+        </div>
+        <div>
+            <img src="transferir.jfif" alt="imagem de um gato">
+            <a href="Protótipo Figma">Protótipo Figma</a>
+        </div>
+        
+        <h1>IA de cookies</h1>
+        <div>
+            <p>Um protótipo de uma extensão do software de gerenciamento Jira com tecnologia de IA, adaptada às necessidades dos estudantes universitários com gerenciamento de tarefas e produtividade.</p>
+            <img src="computador.avif" alt="computador">
+            <p>2023 Digisoc x Atlassian Product Hackathon – Vencedor do primeiro lugar</p>
+        </div>
+    </main>
+</body>
+</html>
